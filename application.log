@@ -1,0 +1,23 @@
+2022-08-08 22:33:41,438  INFO [main] GetStudentReportExam:39 - Launching chrome browser
+2022-08-08 22:33:43,186  INFO [main] GetStudentReportExam:44 - Entering the Workbecnh Url
+2022-08-08 22:33:43,189  WARN [main] GetStudentReportExam:45 - Warning message
+2022-08-08 22:33:43,292  INFO [main] GetStudentReportExam:51 - Login to the Workbench
+2022-08-08 22:33:45,619  INFO [main] GetStudentReportExam:87 - If faail
+2022-08-08 22:33:45,634  INFO [main] GetStudentReportExam:60 - intgegrate salesfroce login
+2022-08-08 22:33:49,222  INFO [main] GetStudentReportExam:87 - If faail
+2022-08-08 22:33:49,231  INFO [main] GetStudentReportExam:68 - To clear Extra Url from Api Workbench uri
+2022-08-08 22:33:53,879  INFO [main] GetStudentReportExam:87 - If faail
+2022-08-08 22:33:53,885  INFO [main] GetStudentReportExam:76 - Enter the Exact URI for Api testing 
+2022-08-08 22:34:05,658  INFO [main] GetStudentReportExam:87 - If faail
+2022-08-09 09:50:46,429  INFO [main] GetStudentReportExam:41 - Launching chrome browser
+2022-08-09 09:50:48,153  INFO [main] GetStudentReportExam:45 - Launching the WorkBench URL
+2022-08-09 09:50:48,280  INFO [main] GetStudentReportExam:47 - Maximize the Browser
+2022-08-09 09:50:51,159  INFO [main] GetStudentReportExam:60 - Login to the WorkBench
+2022-08-09 09:50:56,878  INFO [main] GetStudentReportExam:71 - Connect Workbench & salesforce integrate
+2022-08-09 09:51:01,444  INFO [main] GetStudentReportExam:80 - Clear the Extra API On the URI 
+2022-08-09 09:51:01,682  INFO [main] GetStudentReportExam:85 - on the api Testing Here We fillter the Exam Complete the 7 days
+2022-08-09 09:51:14,092  INFO [main] GetStudentReportExam:91 - To show the Response came from Salesforce
+2022-08-09 09:51:14,110  INFO [main] GetStudentReportExam:95 - login to salesforce to check...
+2022-08-09 09:51:44,243  INFO [main] GetStudentReportExam:120 - Seacrh the Exam Oject 
+2022-08-09 09:51:46,597  INFO [main] GetStudentReportExam:129 - display the Record On the Exam object Which Exam was complete On 7days 
+2022-08-09 09:52:07,506  INFO [main] GetStudentReportExam:151 - After verify the portal Record = Salesforce Record= Response which was get form API Was 4 
