@@ -721,3 +721,265 @@
 [INFO ] 2022-08-11 10:20:00.589 [main] ExamDashBoard - Launching the WorkBench URL
 [INFO ] 2022-08-11 10:20:03.452 [main] ExamDashBoard - Login to the WorkBench
 [INFO ] 2022-08-11 10:20:12.270 [main] ExamDashBoard - Connect Workbench & salesforce integrate
+[INFO ] 2022-08-11 11:45:27.577 [main] ExamDashBoard - =============Automate Testing============ 
+[INFO ] 2022-08-11 11:45:29.482 [main] ExamDashBoard - =============Test name============: FilterByUpcommingexam7days
+[INFO ] 2022-08-11 11:45:29.482 [main] ExamDashBoard - Launching chrome browser
+[INFO ] 2022-08-11 11:45:34.552 [main] ExamDashBoard - Launching the FrontEnd portal
+[INFO ] 2022-08-11 11:45:34.682 [main] ExamDashBoard - Maximize the Browser
+[INFO ] 2022-08-11 11:45:46.426 [main] ExamDashBoard - The number of Record  is from Portal on 7 days Filletr 7
+[INFO ] 2022-08-11 11:45:48.385 [main] ExamDashBoard - Launching the WorkBench URL
+[INFO ] 2022-08-11 11:45:51.136 [main] ExamDashBoard - Login to the WorkBench
+[INFO ] 2022-08-11 11:45:54.188 [main] ExamDashBoard - Connect Workbench & salesforce integrate
+[INFO ] 2022-08-11 11:45:58.865 [main] ExamDashBoard - Clear the Extra API On the URI 
+[INFO ] 2022-08-11 11:45:59.099 [main] ExamDashBoard - on the api Testing Here We fillter the Exam Complete the 7 days
+[INFO ] 2022-08-11 11:46:10.677 [main] ExamDashBoard - To show the Response came from Salesforce & the record count 6
+[INFO ] 2022-08-11 11:46:10.678 [main] ExamDashBoard - ======================RESPONSE FROM THE API====================
+[INFO ] 2022-08-11 11:46:10.678 [main] ExamDashBoard - {
+  "pendingExamList": [
+    {
+      "term": "BBA Term 1 Master",
+      "seatPlanStatus": "Not Created",
+      "questionPaperId": null,
+      "quesPaperStatus": "Not Approved",
+      "program": "Bachelor of Business Administration",
+      "invigStatus": "Not Assigned",
+      "id": "a126D000000lK2nQAE",
+      "grading": null,
+      "examType": "End-term",
+      "examMode": "Online",
+      "examLink": "Link",
+      "examDate": "2022-08-15",
+      "examCycle": "July",
+      "evaluation": null,
+      "course": "BBALIB106-World Cultures",
+      "batch": "2022"
+    },
+    {
+      "term": "BBA Term 1 Master",
+      "seatPlanStatus": "Not Created",
+      "questionPaperId": null,
+      "quesPaperStatus": "Not Approved",
+      "program": "Bachelor of Business Administration",
+      "invigStatus": "Not Assigned",
+      "id": "a126D000000lwpZQAQ",
+      "grading": null,
+      "examType": "End-term",
+      "examMode": "Online",
+      "examLink": "Link",
+      "examDate": "2022-08-16",
+      "examCycle": "July",
+      "evaluation": null,
+      "course": "BBADSC201-Data Science for Business",
+      "batch": "2022"
+    },
+    {
+      "term": "BBA Term 1 Master",
+      "seatPlanStatus": "Not Created",
+      "questionPaperId": null,
+      "quesPaperStatus": "Not Approved",
+      "program": "Global MBA",
+      "invigStatus": "Assigned",
+      "id": "a126D000000lK2sQAE",
+      "grading": null,
+      "examType": "End-term",
+      "examMode": "Ofline",
+      "examLink": "Link",
+      "examDate": "2022-08-12",
+      "examCycle": "October",
+      "evaluation": null,
+      "course": "BBAMGT106-Principles of Management",
+      "batch": "2022"
+    },
+    {
+      "term": "BBA Term 1 Master",
+      "seatPlanStatus": "Not Created",
+      "questionPaperId": "a136D0000055hVqQAI",
+      "quesPaperStatus": "Approved",
+      "program": "Bachelor of Business Administration",
+      "invigStatus": "Not Assigned",
+      "id": "a126D000000lwpUQAQ",
+      "grading": null,
+      "examType": "End-term",
+      "examMode": "Online",
+      "examLink": "Link",
+      "examDate": "2022-08-17",
+      "examCycle": "July",
+      "evaluation": null,
+      "course": "BBALIB106-World Cultures",
+      "batch": "2022"
+    },
+    {
+      "term": "MGB Term 4 Master",
+      "seatPlanStatus": "Not Created",
+      "questionPaperId": null,
+      "quesPaperStatus": "Not Approved",
+      "program": "Global MBA",
+      "invigStatus": "Not Assigned",
+      "id": "a126D000000laGZQAY",
+      "grading": null,
+      "examType": "End-term",
+      "examMode": "Ofline",
+      "examLink": null,
+      "examDate": "2022-08-14",
+      "examCycle": "October",
+      "evaluation": null,
+      "course": "MBAGITM213-Managing Technology Projects and Outsourcing",
+      "batch": "2022"
+    },
+    {
+      "term": "MGB Term 4 Master",
+      "seatPlanStatus": "Not Created",
+      "questionPaperId": null,
+      "quesPaperStatus": "Not Approved",
+      "program": "Global MBA",
+      "invigStatus": "Not Assigned",
+      "id": "a126D000000laGaQAI",
+      "grading": null,
+      "examType": "Mid-term",
+      "examMode": "Ofline",
+      "examLink": null,
+      "examDate": "2022-08-13",
+      "examCycle": "October",
+      "evaluation": null,
+      "course": "MBAGITM213-Managing Technology Projects and Outsourcing",
+      "batch": "2022"
+    },
+    {
+      "term": "2024-DEC-BBA-Term6-Virtual",
+      "seatPlanStatus": "Not Created",
+      "questionPaperId": null,
+      "quesPaperStatus": "Not Approved",
+      "program": "Bachelor of Business Administration",
+      "invigStatus": "Not Assigned",
+      "id": "a126D000000laGeQAI",
+      "grading": null,
+      "examType": "End-term",
+      "examMode": "Online",
+      "examLink": null,
+      "examDate": "2022-08-11",
+      "examCycle": "October",
+      "evaluation": null,
+      "course": "BBAQTT310-Decision Making",
+      "batch": "2022"
+    }
+  ]
+}
+[INFO ] 2022-08-11 11:46:10.680 [main] ExamDashBoard - =============Completed===============
+[INFO ] 2022-08-11 11:46:10.819 [main] ExamDashBoard - =============Test name============: FilterByUpcommingexam15days
+[INFO ] 2022-08-11 11:46:13.839 [main] ExamDashBoard - Launching the FrontEnd portal
+[INFO ] 2022-08-11 11:46:13.976 [main] ExamDashBoard - Maximize the Browser
+[INFO ] 2022-08-11 11:46:14.077 [main] ExamDashBoard - =============Test name============: completeExam7Days
+[INFO ] 2022-08-11 11:46:17.087 [main] ExamDashBoard - Launching the FrontEnd portal
+[INFO ] 2022-08-11 11:46:17.221 [main] ExamDashBoard - Maximize the Browser
+[INFO ] 2022-08-11 11:46:28.592 [main] ExamDashBoard - The number of Record  is from Portal on 7 days Filletr 7
+[INFO ] 2022-08-11 11:46:33.722 [main] ExamDashBoard - Launching the WorkBench URL
+[INFO ] 2022-08-11 11:46:41.668 [main] ExamDashBoard - Login to the WorkBench
+[INFO ] 2022-08-11 11:46:50.755 [main] ExamDashBoard - Connect Workbench & salesforce integrate
+[INFO ] 2022-08-11 11:46:52.969 [main] ExamDashBoard - Clear the Extra API On the URI 
+[INFO ] 2022-08-11 11:46:53.224 [main] ExamDashBoard - on the api Testing Here We fillter the Exam Complete the 7 days
+[INFO ] 2022-08-11 11:47:05.245 [main] ExamDashBoard - To show the Response came from Salesforce & the record count 6
+[INFO ] 2022-08-11 11:47:05.245 [main] ExamDashBoard - ======================RESPONSE FROM THE API====================
+[INFO ] 2022-08-11 11:47:05.246 [main] ExamDashBoard - "completedExamList": [{
+		"term": "BBA Term 1 Master",
+		"seatPlanStatus": "Not Created",
+		"questionPaperId": "a136D0000055hW5QAI",
+		"quesPaperStatus": "Approved",
+		"program": "Bachelor of Business Administration",
+		"invigStatus": "Not Assigned",
+		"id": "a126D000000lK2iQAE",
+		"grading": null,
+		"examType": "Mid-term",
+		"examMode": "Ofline",
+		"examLink": "Link",
+		"examDate": "2022-08-10",
+		"examCycle": "July",
+		"evaluation": null,
+		"course": "BBALIB108-Foudation skills 2:Ethics and moral Reasoning",
+		"batch": "2022"
+	}, {
+		"term": "MGB Term 4 Master",
+		"seatPlanStatus": "Not Created",
+		"questionPaperId": "a136D0000055RmtQAE",
+		"quesPaperStatus": "Approved",
+		"program": "Master of Global Business",
+		"invigStatus": "Assigned",
+		"id": "a126D000000lXz6QAE",
+		"grading": null,
+		"examType": "End-term",
+		"examMode": "Ofline",
+		"examLink": "Link",
+		"examDate": "2022-08-06",
+		"examCycle": "July",
+		"evaluation": null,
+		"course": "BBAECO103-Macroeconomics",
+		"batch": "2022"
+	}, {
+		"term": "2023-JAN-GMBA-Term1-Dubai",
+		"seatPlanStatus": "Not Created",
+		"questionPaperId": "a136D0000055RmjQAE",
+		"quesPaperStatus": "Approved",
+		"program": "Global MBA",
+		"invigStatus": "Not Assigned",
+		"id": "a126D000000lXzBQAU",
+		"grading": null,
+		"examType": "End-term",
+		"examMode": "Ofline",
+		"examLink": "Link",
+		"examDate": "2022-08-05",
+		"examCycle": "July",
+		"evaluation": null,
+		"course": "MBAEENT203-Technology Entrepreneurship",
+		"batch": "2022"
+	}, {
+		"term": "BBA Term 1 Master",
+		"seatPlanStatus": "Not Created",
+		"questionPaperId": "a136D0000055hVRQAY",
+		"quesPaperStatus": "Approved",
+		"program": "Bachelor of Business Administration",
+		"invigStatus": "Not Assigned",
+		"id": "a126D000000lwpaQAA",
+		"grading": null,
+		"examType": "End-term",
+		"examMode": "Online",
+		"examLink": "Link",
+		"examDate": "2022-08-09",
+		"examCycle": "July",
+		"evaluation": null,
+		"course": "BBAMAT101-Mathematical & Digital Literacy",
+		"batch": "2022"
+	}, {
+		"term": "2024-DEC-BBA-Term6-Virtual",
+		"seatPlanStatus": "Not Created",
+		"questionPaperId": null,
+		"quesPaperStatus": "Not Approved",
+		"program": "Bachelor of Business Administration",
+		"invigStatus": "Assigned",
+		"id": "a126D000000laaKQAQ",
+		"grading": null,
+		"examType": "End-term",
+		"examMode": "Ofline",
+		"examLink": "Link",
+		"examDate": "2022-08-04",
+		"examCycle": "July",
+		"evaluation": null,
+		"course": "BBAMGT106-Principles of Management",
+		"batch": "2022"
+	}, {
+		"term": "2024-DEC-BBA-Term6-Virtual",
+		"seatPlanStatus": "Not Created",
+		"questionPaperId": "a136D0000055RmuQAE",
+		"quesPaperStatus": "Approved",
+		"program": "Bachelor of Business Administration",
+		"invigStatus": "Not Assigned",
+		"id": "a126D000000laGfQAI",
+		"grading": null,
+		"examType": "Mid-term",
+		"examMode": "Online",
+		"examLink": "Link",
+		"examDate": "2022-08-08",
+		"examCycle": "July",
+		"evaluation": null,
+		"course": "BBAQTT310-Decision Making",
+		"batch": "2022"
+	}]
+}
