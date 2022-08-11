@@ -3,14 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="GetExamAllureReport.ExamDashReport">
+      <class name="CompleteExamDashBoard.ExamDashBoard">
         <methods>
-          <include name="EnterAPI"/>
-          <include name="ClearUrl"/>
-          <include name="setup"/>
-          <include name="afterMethods"/>
+          <include name="FilterByUpcommingexam15days" invocation-numbers="0"/>
         </methods>
-      </class> <!-- GetExamAllureReport.ExamDashReport -->
+      </class> <!-- CompleteExamDashBoard.ExamDashBoard -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

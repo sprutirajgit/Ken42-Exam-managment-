@@ -148,7 +148,7 @@ public class ExamDashReport {
          Thread.sleep(1000);
          List<WebElement> row = driver.findElements(By.xpath("//*[@id=\"root\"]/div/div/div/div[2]/div/div/div[3]/div/div[2]/div/table/tbody/tr"));
         System.out.println("The number of Record  is from Portal "+ row.size());
-        log.info("After verify the portal Record = Salesforce Record= Response which was get form API Was 3 ");
+        log.info("After verify the portal Record = Response which was get form API Was 3 ");
   }
   @AfterMethod
 	 public void afterMethods(ITestResult result) throws Exception {

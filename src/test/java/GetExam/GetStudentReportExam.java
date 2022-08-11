@@ -25,7 +25,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class GetStudentReportExam {
 	
 	
-	
 	 WebDriver driver;
     Logger log = Logger.getLogger(GetStudentReportExam.class);
 
